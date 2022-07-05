@@ -3,7 +3,7 @@
 # Main Menu 
 ![Screenshot (615)](https://user-images.githubusercontent.com/92621125/177264373-f4be34d8-0629-4a50-9bdb-eefaa926bc75.png)
 
-# Main Menu (Black/White)
+# Main Menu (Change UI)
 ![Screenshot (448)](https://user-images.githubusercontent.com/92621125/177264419-f0208d8a-ee3b-45d0-ba7f-8918009cfbfd.png)
 
 # Main Game
